@@ -172,7 +172,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/klang.center:8080\/paradiso.bln.mp3"
+                 "value":"https:\/\/stream.paradiso.de\/paradiso-berlin\/mp3-128\/paradiso.bln.mp3"
                 }, 
                 {
                  "name":"openWebsitePolicy",

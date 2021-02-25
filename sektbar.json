@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/uk7.internet-radio.com:8000\/"
+                 "value":"https:\/\/onlineradiobox.com\/ua\/djsradio\/player\/?cs=ua.djsradio&played=1"
                 }, 
                 {
                  "name":"openWebsitePolicy",
